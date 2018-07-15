@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\father\desktop\myconnect\myconnect\chessboard.h(293): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\move.h(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\move.h(243): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\move.h(340): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\move.h(354): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\move.h(389): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\search.h(55): warning C4244: “+=”: 从“time_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\search.h(75): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\search.h(137): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect\myconnect\main.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\father\desktop\myconnect\myconnect\main.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\father\desktop\myconnect\myconnect\main.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  MyConnect.vcxproj -> C:\Users\father\Desktop\MyConnect\x64\Debug\MyConnect.exe
+  MyConnect.vcxproj -> C:\Users\father\Desktop\MyConnect\x64\Debug\MyConnect.pdb (Full PDB)

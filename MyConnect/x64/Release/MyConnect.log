@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\ChessBoard.h(283): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Move.h(157): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Move.h(202): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Move.h(250): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Move.h(267): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Move.h(304): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Search.h(61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\father\desktop\myconnect(1)\myconnect\myconnect\Search.h(130): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  374 of 377 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MyConnect.vcxproj -> C:\Users\father\Desktop\MyConnect(1)\MyConnect\x64\Release\MyConnect.exe
+  MyConnect.vcxproj -> C:\Users\father\Desktop\MyConnect(1)\MyConnect\x64\Release\MyConnect.pdb (Full PDB)
